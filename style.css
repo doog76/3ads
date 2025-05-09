@@ -12,8 +12,8 @@ body{
 h1{
     color: aquamarine;
     font-family: "Creepster", system-ui;
-  font-weight: 400;
-  font-style: normal;
+    font-weight: 400;
+    font-style: italic;
 }
 
 ul{
@@ -32,4 +32,12 @@ li a{
     color: rgb(45, 133, 106);
     text-decoration: none;
     padding: 14px 16px;
+    font-family: "Creepster", system-ui;
+    font-weight: 400;
+    font-style: italic;
+}
+    
+
+li a:hover{
+   color:azure 
 }
